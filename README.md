@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rosette-Kavira
 - 👀 I’m interested in GitHub
 - 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate with the développers 
+- 💞️ I’m looking to collaborate with the developpers 
 - 📫 How to reach me kavirar7@gmail.com
 - 😄 Pronouns: Rosette
 - ⚡ Fun fact:
